@@ -2,7 +2,8 @@
 # Data Analysis and Insights Project
 # Tech Stack:
 ![image](https://github.com/user-attachments/assets/9d682fb7-ac42-416f-a20a-aef3e3e9cc12) ![image](https://github.com/user-attachments/assets/490e9ac1-b060-4883-b8e1-6f2566b28cfb) 
-![image](https://mma.prnewswire.com/media/411941/TABLEAU_SOFTWARE_LOGOjpg_Logo.jpg?p=facebook)
+![image](https://github.com/user-attachments/assets/312a1d75-61d4-4a1e-b303-511a8cdad26a)
+
 
 
  
